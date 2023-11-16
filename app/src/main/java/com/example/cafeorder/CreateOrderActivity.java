@@ -24,7 +24,7 @@ public class CreateOrderActivity extends AppCompatActivity {
     private String password;
     private StringBuilder builderAdditions;
 
-//change for commit
+//change for commit 03
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
